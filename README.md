@@ -1,6 +1,3 @@
-# CodeClauseInternship_MusicPlayer
-
-
 # Python Music Player
 
 ## Description
